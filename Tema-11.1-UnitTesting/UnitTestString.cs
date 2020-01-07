@@ -5,7 +5,7 @@ namespace Tema_11._1_UnitTesting
 {
     //Ex 1: Strings problem
     [TestClass]
-    public class UnitTest1
+    public class UnitTestString
     {
         private StringsUtils reverse;
         [TestInitialize]
