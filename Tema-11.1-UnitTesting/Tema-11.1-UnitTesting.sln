@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema-11.1-UnitTesting-Ex1",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema-11.1-UnitTesting-Ex2", "..\Tema-11.1-UnitTesting-Ex2\Tema-11.1-UnitTesting-Ex2.csproj", "{7E027954-8F1A-4F50-88A8-98B4E8240AA7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema-11.1-UnitTesting-Ex3", "..\Tema-11.1-UnitTesting-Ex3\Tema-11.1-UnitTesting-Ex3.csproj", "{650A7175-458C-48FB-9078-AEAC6BD6373A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7E027954-8F1A-4F50-88A8-98B4E8240AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E027954-8F1A-4F50-88A8-98B4E8240AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E027954-8F1A-4F50-88A8-98B4E8240AA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{650A7175-458C-48FB-9078-AEAC6BD6373A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{650A7175-458C-48FB-9078-AEAC6BD6373A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{650A7175-458C-48FB-9078-AEAC6BD6373A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{650A7175-458C-48FB-9078-AEAC6BD6373A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

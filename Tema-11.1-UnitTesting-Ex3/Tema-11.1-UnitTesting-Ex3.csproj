@@ -5,11 +5,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7E027954-8F1A-4F50-88A8-98B4E8240AA7}</ProjectGuid>
+    <ProjectGuid>{650A7175-458C-48FB-9078-AEAC6BD6373A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Tema_11._1_UnitTesting_Ex2</RootNamespace>
-    <AssemblyName>Tema-11.1-UnitTesting-Ex2</AssemblyName>
+    <RootNamespace>Tema_11._1_UnitTesting_Ex3</RootNamespace>
+    <AssemblyName>Tema-11.1-UnitTesting-Ex3</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -49,8 +49,8 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Calculator.cs" />
-    <Compile Include="UnitTestCalculator.cs" />
+    <Compile Include="GoatLatin.cs" />
+    <Compile Include="UnitTestGoat.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
